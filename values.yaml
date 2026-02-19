@@ -8,7 +8,7 @@ image:
   repository: ravikumardekka/html1-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"
+  tag: "4bfb1011bdd8009a374180277c9b72e35c0d399e"
 
 imagePullSecrets: []
 nameOverride: ""
